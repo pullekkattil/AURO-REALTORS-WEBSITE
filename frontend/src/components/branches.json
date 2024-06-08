@@ -1,0 +1,214 @@
+[
+    {
+      "Name": "AURO Realty Consultancy - New York",
+      "Address": "123 Fifth Avenue, New York, NY 10001",
+      "Email id": "ny@aurorealty.com",
+      "Phone number": "+1-212-555-0100",
+      "country": "United States"
+    },
+    {
+      "Name": "AURO Realty Consultancy - Los Angeles",
+      "Address": "456 Sunset Blvd, Los Angeles, CA 90028",
+      "Email id": "la@aurorealty.com",
+      "Phone number": "+1-213-555-0200",
+      "country": "United States"
+    },
+    {
+      "Name": "AURO Realty Consultancy - Toronto",
+      "Address": "789 Yonge St, Toronto, ON M4W 2G8",
+      "Email id": "toronto@aurorealty.com",
+      "Phone number": "+1-416-555-0300",
+      "country": "Canada"
+    },
+    {
+      "Name": "AURO Realty Consultancy - Vancouver",
+      "Address": "1011 Robson St, Vancouver, BC V6E 3P7",
+      "Email id": "vancouver@aurorealty.com",
+      "Phone number": "+1-604-555-0400",
+      "country": "Canada"
+    },
+    {
+      "Name": "AURO Realty Consultancy - London",
+      "Address": "12 Oxford Street, London W1D 1AB",
+      "Email id": "london@aurorealty.com",
+      "Phone number": "+44-20-5555-0500",
+      "country": "United Kingdom"
+    },
+    {
+      "Name": "AURO Realty Consultancy - Manchester",
+      "Address": "345 Deansgate, Manchester M3 4LG",
+      "Email id": "manchester@aurorealty.com",
+      "Phone number": "+44-161-555-0600",
+      "country": "United Kingdom"
+    },
+    {
+      "Name": "AURO Realty Consultancy - Paris",
+      "Address": "678 Rue de Rivoli, 75001 Paris",
+      "Email id": "paris@aurorealty.com",
+      "Phone number": "+33-1-5555-0700",
+      "country": "France"
+    },
+    {
+      "Name": "AURO Realty Consultancy - Lyon",
+      "Address": "910 Place Bellecour, 69002 Lyon",
+      "Email id": "lyon@aurorealty.com",
+      "Phone number": "+33-4-5555-0800",
+      "country": "France"
+    },
+    {
+      "Name": "AURO Realty Consultancy - Berlin",
+      "Address": "123 Friedrichstraße, 10117 Berlin",
+      "Email id": "berlin@aurorealty.com",
+      "Phone number": "+49-30-5555-0900",
+      "country": "Germany"
+    },
+    {
+      "Name": "AURO Realty Consultancy - Munich",
+      "Address": "456 Marienplatz, 80331 Munich",
+      "Email id": "munich@aurorealty.com",
+      "Phone number": "+49-89-5555-1000",
+      "country": "Germany"
+    },
+    {
+      "Name": "AURO Realty Consultancy - Sydney",
+      "Address": "789 George Street, Sydney NSW 2000",
+      "Email id": "sydney@aurorealty.com",
+      "Phone number": "+61-2-5555-1100",
+      "country": "Australia"
+    },
+    {
+      "Name": "AURO Realty Consultancy - Melbourne",
+      "Address": "1011 Collins Street, Melbourne VIC 3000",
+      "Email id": "melbourne@aurorealty.com",
+      "Phone number": "+61-3-5555-1200",
+      "country": "Australia"
+    },
+    {
+      "Name": "AURO Realty Consultancy - Tokyo",
+      "Address": "123 Shibuya, Tokyo 150-0002",
+      "Email id": "tokyo@aurorealty.com",
+      "Phone number": "+81-3-5555-1300",
+      "country": "Japan"
+    },
+    {
+      "Name": "AURO Realty Consultancy - Osaka",
+      "Address": "456 Umeda, Osaka 530-0001",
+      "Email id": "osaka@aurorealty.com",
+      "Phone number": "+81-6-5555-1400",
+      "country": "Japan"
+    },
+    {
+      "Name": "AURO Realty Consultancy - Beijing",
+      "Address": "789 Wangfujing, Beijing 100006",
+      "Email id": "beijing@aurorealty.com",
+      "Phone number": "+86-10-5555-1500",
+      "country": "China"
+    },
+    {
+      "Name": "AURO Realty Consultancy - Shanghai",
+      "Address": "1011 Nanjing Road, Shanghai 200000",
+      "Email id": "shanghai@aurorealty.com",
+      "Phone number": "+86-21-5555-1600",
+      "country": "China"
+    },
+    {
+      "Name": "AURO Realty Consultancy - New Delhi",
+      "Address": "123 Connaught Place, New Delhi 110001",
+      "Email id": "newdelhi@aurorealty.com",
+      "Phone number": "+91-11-5555-1700",
+      "country": "India"
+    },
+    {
+      "Name": "AURO Realty Consultancy - Mumbai",
+      "Address": "456 Marine Drive, Mumbai 400020",
+      "Email id": "mumbai@aurorealty.com",
+      "Phone number": "+91-22-5555-1800",
+      "country": "India"
+    },
+    {
+      "Name": "AURO Realty Consultancy - Dubai",
+      "Address": "789 Sheikh Zayed Road, Dubai",
+      "Email id": "dubai@aurorealty.com",
+      "Phone number": "+971-4-5555-1900",
+      "country": "United Arab Emirates"
+    },
+    {
+      "Name": "AURO Realty Consultancy - Abu Dhabi",
+      "Address": "1011 Corniche Road, Abu Dhabi",
+      "Email id": "abudhabi@aurorealty.com",
+      "Phone number": "+971-2-5555-2000",
+      "country": "United Arab Emirates"
+    },
+    {
+      "Name": "AURO Realty Consultancy - Sao Paulo",
+      "Address": "123 Avenida Paulista, Sao Paulo",
+      "Email id": "saopaulo@aurorealty.com",
+      "Phone number": "+55-11-5555-2100",
+      "country": "Brazil"
+    },
+    {
+      "Name": "AURO Realty Consultancy - Rio de Janeiro",
+      "Address": "456 Copacabana, Rio de Janeiro",
+      "Email id": "rio@aurorealty.com",
+      "Phone number": "+55-21-5555-2200",
+      "country": "Brazil"
+    },
+    {
+      "Name": "AURO Realty Consultancy - Johannesburg",
+      "Address": "789 Sandton, Johannesburg",
+      "Email id": "johannesburg@aurorealty.com",
+      "Phone number": "+27-11-5555-2300",
+      "country": "South Africa"
+    },
+    {
+      "Name": "AURO Realty Consultancy - Cape Town",
+      "Address": "1011 Waterfront, Cape Town",
+      "Email id": "capetown@aurorealty.com",
+      "Phone number": "+27-21-5555-2400",
+      "country": "South Africa"
+    },
+    {
+      "Name": "AURO Realty Consultancy - Moscow",
+      "Address": "123 Red Square, Moscow",
+      "Email id": "moscow@aurorealty.com",
+      "Phone number": "+7-495-555-2500",
+      "country": "Russia"
+    },
+    {
+      "Name": "AURO Realty Consultancy - Saint Petersburg",
+      "Address": "456 Nevsky Prospekt, Saint Petersburg",
+      "Email id": "saintpetersburg@aurorealty.com",
+      "Phone number": "+7-812-555-2600",
+      "country": "Russia"
+    },
+    {
+      "Name": "AURO Realty Consultancy - Singapore",
+      "Address": "789 Orchard Road, Singapore 238839",
+      "Email id": "singapore@aurorealty.com",
+      "Phone number": "+65-5555-2700",
+      "country": "Singapore"
+    },
+    {
+      "Name": "AURO Realty Consultancy - Hong Kong",
+      "Address": "1011 Central, Hong Kong",
+      "Email id": "hongkong@aurorealty.com",
+      "Phone number": "+852-5555-2800",
+      "country": "Hong Kong"
+    },
+    {
+      "Name": "AURO Realty Consultancy - Kuala Lumpur",
+      "Address": "123 Petronas Towers, Kuala Lumpur",
+      "Email id": "kl@aurorealty.com",
+      "Phone number": "+60-3-5555-2900",
+      "country": "Malaysia"
+    },
+    {
+      "Name": "AURO Realty Consultancy - Bangkok",
+    "Address": "456 Sukhumvit, Bangkok",
+    "Email id": "bangkok@aurorealty.com",
+    "Phone number": "+66-2-5555-3000",
+    "country": "Thailand"
+  }
+]
+
+  
